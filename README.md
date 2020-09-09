@@ -4,14 +4,11 @@
 ---
 
 ## Purpose
-[In two to three sentences state the purpose of this repository, ideally tying it to an existing SDAM milestone. E.g., The purpose of this repository is to provide templates for all future SDAM repositories in order to save precious time and maintain high standards and uniformity of our documentation.]
+This repo aims to backup scripts which has been part of an discontinueted research project in collabaration with researchers from the Department for the Study of Religion in Brno.
 
 ---
 ## Authors
-* Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540), SDAM project, petra@ancientsocialcomplexity.org
-* [Name], [ORCID], [Institution], [email]
-* [Name], [ORCID], [Institution], [email]
-* [Name], [ORCID], [Institution], [email]
+* Vojtěch Kaše (+ contributors)
 
 ## License
 CC-BY-SA 4.0, see attached License.md
